@@ -8,6 +8,14 @@
 **Status:** &#128993; In Entwicklung  
 **Schwierigkeit:** &#11088;&#9734;&#9734;&#9734;&#9734;
 
+# Technologien #
+
+- C#
+- .NET 10
+- Visual Studio 2026
+- Git
+- GitHub
+
 ---
 
 # Projektbeschreibung #
@@ -33,3 +41,12 @@ Das Programm soll verständlich bedienbar sein und den Benutzer nach der Berechn
 
 # Entwicklungsverlauf #
 
+## Version 0.1.0 – Projektgrundlage
+
+- Projektrepository erstellt
+- Visual-Studio-Projekt angelegt
+- Git eingerichtet
+- GitHub angebunden
+- Erste Projektstruktur erstellt
+- .gitignore eingerichtet
+- README-Grundgerüst erstellt
