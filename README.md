@@ -16,9 +16,10 @@ Der Taschenrechner ist das erste Projekt der Developer Journey und bildet den Ei
 Ziel dieses Projekts ist es, die grundlegenden Konzepte der Programmierung anhand eines realen Anwendungsbeispiels zu erlernen. Dabei entsteht der Taschenrechner nicht in einem Schritt, sondern entwickelt sich Version für Version weiter.
 Der Fokus liegt nicht nur auf funktionierendem Code, sondern auf dem Verständnis der Softwareentwicklung, sauberem Programmaufbau und nachvollziehbaren Entscheidungen während des gesamten Entwicklungsprozesses.
 
-# Ziel # 
+# Ziel #
 
-
+Version 0.1 des Taschenrechners soll es dem Benutzer ermöglichen, zwei Zahlen einzugeben, eine der vier Grundrechenarten auszuwählen und das berechnete Ergebnis ausgeben zu lassen.
+Das Programm soll verständlich bedienbar sein und den Benutzer nach der Berechnung fragen, ob eine weitere Berechnung durchgeführt oder die Anwendung beendet werden soll.
 
 # Funktionen #
 
