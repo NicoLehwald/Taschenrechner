@@ -1,2 +1,34 @@
-# Taschenrechner
-Projekt DJ-001 – Konsolen-Taschenrechner der Developer Journey.
+> [!NOTE]
+> Dieses Projekt ist Teil meiner Developer Journey.
+> Ziel ist es, Softwareentwicklung Schritt für Schritt praxisnah zu lernen und nachvollziehbar zu dokumentieren.
+
+# Taschenrechner #
+
+**Projekt:** DJ-001  
+**Status:** &#128993; In Entwicklung  
+**Schwierigkeit:** &#11088;&#9734;&#9734;&#9734;&#9734;
+
+---
+
+# Projektbeschreibung #
+
+Der Taschenrechner ist das erste Projekt der Developer Journey und bildet den Einstieg in die praxisnahe Softwareentwicklung mit C#.
+Ziel dieses Projekts ist es, die grundlegenden Konzepte der Programmierung anhand eines realen Anwendungsbeispiels zu erlernen. Dabei entsteht der Taschenrechner nicht in einem Schritt, sondern entwickelt sich Version für Version weiter.
+Der Fokus liegt nicht nur auf funktionierendem Code, sondern auf dem Verständnis der Softwareentwicklung, sauberem Programmaufbau und nachvollziehbaren Entscheidungen während des gesamten Entwicklungsprozesses.
+
+# Ziel # 
+
+
+
+# Funktionen #
+
+
+# Geplante Erweiterungen #
+
+
+# Lernziele #
+
+
+
+# Entwicklungsverlauf #
+
